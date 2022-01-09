@@ -1,3 +1,1 @@
-file 2
-please add file 3
-oh sorry file 2 is already added
+it should be empty
